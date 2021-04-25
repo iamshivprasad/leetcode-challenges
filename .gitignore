@@ -1,0 +1,14 @@
+﻿
+/.vs
+*/.vs
+*.filters
+*.user
+*/Debug
+*.obj
+*.idb
+*.pdb
+*/x64/Debug
+*.txt
+*/x64/*
+Debug/
+x64/
